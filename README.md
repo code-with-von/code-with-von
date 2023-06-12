@@ -1,7 +1,7 @@
-# Olá eu sou von Schappler!
+# Olá eu sou von Schappler (Manoel Viturino)
 
 
 
-## Ouvindo agora:
+### Estou trabralhand ao som de:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&cover_image=true&theme=natemoo-re&show_offline=false&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&redirect=true)
