@@ -36,6 +36,7 @@ jobs:
           config_octicon: yes
           config_timezone: America/Fortaleza
           config_twemoji: yes
+          config_output: markdown
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
