@@ -28,9 +28,8 @@ jobs:
 
           # Options
           template: markdown
-          filename: Readme.md
-          markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          filename: README_.md
+          markdown: template.md
           config_output: markdown
           user: code-with-von
           base: header, activity, community, repositories, metadata
