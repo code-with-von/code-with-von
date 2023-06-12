@@ -28,7 +28,10 @@ jobs:
 
           # Options
           user: code-with-von
-          template: classic
+          template: markdown
+          filename: metrics.markdown.full.md
+          markdown: >-
+            https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           commits_authoring: code-with-von
@@ -36,7 +39,6 @@ jobs:
           config_octicon: yes
           config_timezone: America/Fortaleza
           config_twemoji: yes
-          markdown: TEMPLATE.md
           config_output: markdown
           plugin_achievements: yes
           plugin_achievements_display: compact
