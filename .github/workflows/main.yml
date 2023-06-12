@@ -27,11 +27,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: code-with-von
           template: markdown
-          filename: metrics.markdown.full.md
+          filename: Readme.md
           markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
+            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
+          config_output: markdown
+          user: code-with-von
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           commits_authoring: code-with-von
