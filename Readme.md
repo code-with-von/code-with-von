@@ -1,7 +1,6 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 <link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css' rel='stylesheet'>
 
-<body data-bs-theme="dark">
 <div class="container">
 <h1>🙋‍♂️ Olá! Eu sou von Schappler!</h1>
 
@@ -56,30 +55,53 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 [<span class='bi bi-linkedin text-white'> LinkedIn</span>](https://www.linkedin.com/in/manoelviturino) | [<span class='bi bi-twitch text-white'> Twitch</span>](https://twitch.tv/von_schappler)
 
 </div>
+
+<h4> Estatísticas de minha página pessoal:</h4>
+
+<div align=center>
+<div class='col'>
+
+![pagespeed](metrics/pagespeed.svg)
+
+</div>
+</div>
 </details>
 
 ---
 
-<details>
+<details open>
 <summary><span class='h2'>Estatísticas Git:</span></summary>
 
 <h4>1. Atividade geral:</h4>
 
 <div align=center>
 
-<div class='col-6'>
-
-![stats](https://github-readme-stats.vercel.app/api?username=code-with-von&show_icons=true&bg_color=90,9ba4b5,f1f6f9&icon_color=212a3e&text_color=3d7cb6&locale=pt-BR&hide_title=true&hide_border=true&theme=ambient-gradient&ring_color=212a3e)
-</div>
-
-<div class='col-6'>
+<div class='col-12'>
 
 ![streak-stats](https://streak-stats.demolab.com?user=code-with-von&theme=ambient-gradient&hide_border=true&locale=pt_BR&mode=weekly&background=90%2C9ba4b5%2Cf1f6f9&stroke=212a3e&ring=212a3e&fire=212a3e&currStreakNum=212a3e&sideNums=3d7cb6&currStreakLabel=212a3e&sideLabels=3d7cb6&dates=212a3e&excludeDaysLabel=212a3e)
+
 </div>
 
-<div class='col-6'>
+<div class='col-12'>
+
+![stats](https://github-readme-stats.vercel.app/api?username=code-with-von&show_icons=true&bg_color=90,9ba4b5,f1f6f9&icon_color=212a3e&text_color=3d7cb6&locale=pt-BR&hide_title=true&hide_border=true&theme=ambient-gradient&ring_color=212a3e)
+
+</div>
+
+<div class='col-12'>
 
 ![isocalendar](metrics/isocalendar.svg)
+
+</div>
+<div class='col-12'>
+
+![snippet](metrics/snippet.svg)
+
+</div>
+<div class='col-12'>
+
+![lines](metrics/lines.svg)
+
 </div>
 </div>
 
@@ -87,85 +109,62 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 <div align=center>
 
-<div class='col-6'>
+<div class='col-12'>
 
 ![achievements](metrics/achievements.svg)
+
 </div>
 </div>
 
-</details>
-</details>
+<h4>3. Hábitos de código:
+<div align=center>
+
+<div class='col-12'>
+
+![habits](metrics/habits.svg)
+
 </div>
-</body>
+<div class='col-12'>
 
-<!--
+![leetcode](metrics/leetcode.svg)
 
+</div>
+</div>
 
+<h4>4. Estrelas:
+<div align=center>
 
+<div class='col-12'>
 
+![stars](metrics/stars.svg)
 
+</div>
+<div class='col-12'>
 
+![stargazers](metrics/stargazers.svg)
 
+</div>
+</div>
 
-
-
+<h4>5. Interações:</h4>
 
 <div align=center>
 
+<div class='col-12'>
 
-![Updated Badge](https://badges.pufler.dev/updated/code-with-von/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e)
-![Created Badge](https://badges.pufler.dev/created/pujux/badge-it?style=for-the-badge&color=f1f6f9&labelColor=212a3e)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e)
-![Years Badge](https://badges.pufler.dev/years/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e)
+![people](metrics/people.svg)
 
 </div>
+<div class='col-12'>
 
+![followup](metrics/followup.svg)
+
+</div>
+<div class='col-12'>
+
+![reactions](metrics/reactions.svg)
+
+</div>
+</div>
 </details>
-
-
-![stars-repo](https://badges.pufler.dev/last-stars/code-with-von?count=5&padding=15&perRow=5)
-
-<div class="card bg-dark w-20">
-  <div class="card-body ">
-
-
-  </div>
 </div>
-</div>
-
-## Visão Geral:
-
-
-
-## Atividade Recente:
-
-<div align=center>
-
-</div>
-
-
-
-## Contributors:
-
-## Os top 5:
-
-![stars-repo](https://badges.pufler.dev/last-stars/code-with-von?count=5&padding=15&perRow=5?style=dark)
-
-## Estou trabalhando ao som de:
-
-
-
-
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-von&size_weight=0.5&count_weight=0.5&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
-
-<<<<<<< HEAD
-![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
-
-=======
-![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
-
-> > > > > > > 7067415002a88c315a30991768189781c87a30f6 -->
-
-[^1]: Considerando apenas minha [Página no Github](https://code-with-von.github.io)
-[^2]: Desconsiderando repositórios privados.
