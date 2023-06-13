@@ -73,7 +73,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 </div>
 
-<h4> Estatísticas de minha página pessoal:</h4>
+<h4> Estatísticas de minha página pessoal:[^3]</h4>
 
 <div align=center>
 <div class='col'>
@@ -188,3 +188,4 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 [^1]: Estatísticas de visitas, em relação ao repositório principal, [code-with-von.github.io](https://github.com/code-with-von/code-with-von.github.io)
 [^2]: A contagem de repositórios não abrange os repositórios privados.
+[^3]: Estatísticas atualizadas a cada 4 horas.
