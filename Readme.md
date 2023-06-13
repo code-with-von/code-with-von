@@ -9,7 +9,7 @@ E esses são dados gerais sobre esta conta no Github:
 ![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]
 ![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
 
-<details>
+<details open>
 <summary><span class="h2">Pessoal</span></summary>
 
 - Sou uma pessoa diagnosticada dentro do [Espectro autista](https://pt.wikipedia.org/wiki/Transtornos_do_espectro_autista).
