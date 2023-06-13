@@ -185,3 +185,6 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 </div>
 </details>
 </div>
+
+[^1]: Estatísticas de visitas, em relação ao repositório principal, [code-with-von.github.io](https://github.com/code-with-von/code-with-von.github.io)
+[^2]: A contagem de repositórios não abrange os repositórios privados.
