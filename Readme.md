@@ -1,14 +1,40 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
-<style>
-  * {
-    color: #f1f6f9;
-  }
-  h1 {
-    color: #e2dbd7;
-}
-  
-</style>
+<body data-bs-theme="dark">
+<div aria-live="polite" aria-atomic="true" class="position-relative">
+  <div class="toast-container top-0 end-0 p-3">
+    <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" style='display: block'>
+      <div class="toast-body">
+        * Desconsiderando os repostórios privados
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+    
+    
+  <h1>🙋‍♂️ Olá! Eu sou von Schappler!</h1>
+  <div class="container">
+    <img src="https://badges.pufler.dev/visits/code-with-von/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes"  alt="" srcset="">
+    <img src="https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositórios*" alt="">
+
+
+<details open>
+  <summary><span class="h2">Pessoal</span></summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
+<details>
+  <summary><span class="h2">Profissional</span></summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+</div>
+</body>
+
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
 <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
   <div class="toast-body">
@@ -17,7 +43,8 @@
 </div>
 
 <div class='container-fluid'>
-  
+
+<!--   
 # 🙋‍♂️ Olá eu sou von Schappler!
 
 ![visits](https://badges.pufler.dev/visits/code-with-von/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)
@@ -49,15 +76,25 @@ Teste
 
 ### Minha atividade:
 
-<div class='container'>
-<div class='col'>
+<div class='container-fluid justify-content-center'>
+  <div class='row'>
+    <div class='col-2 justify-content-center'>
+      Col1
+    </div>
+    <div class='col-2 justify-content-center'>
+      Col2
+    </div>
+  </div>
+</div>
+
+<div class='col '>
   
 ![streak-stats](https://streak-stats.demolab.com?user=code-with-von&theme=ambient-gradient&hide_border=true&locale=pt_BR&mode=weekly&background=90%2C9ba4b5%2Cf1f6f9&stroke=212a3e&ring=212a3e&fire=212a3e&currStreakNum=212a3e&sideNums=3d7cb6&currStreakLabel=212a3e&sideLabels=3d7cb6&dates=212a3e&excludeDaysLabel=212a3e)
 </div>
   
 <div class='col'>
 
-![isocalendar](/metrics/isocalendar.svg)
+![isocalendar](metrics/isocalendar.svg)
 </div>
 
 </div>
@@ -94,7 +131,7 @@ Teste
 
 ## Visão Geral:
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/code-with-von) -->
+
 
 ## Atividade Recente:
 
@@ -118,6 +155,4 @@ Teste
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-von&size_weight=0.5&count_weight=0.5&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
 
-![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR) -->
