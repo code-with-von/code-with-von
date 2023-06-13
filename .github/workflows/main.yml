@@ -12,6 +12,7 @@ jobs:
       - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
+          user: code-with-von
           filename: metrics/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
