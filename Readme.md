@@ -155,4 +155,8 @@ Teste
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-von&size_weight=0.5&count_weight=0.5&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR)
 
+<<<<<<< HEAD
 ![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR) -->
+=======
+![repo-1](https://github-readme-stats.vercel.app/api/pin/?username=code-with-von&repo=code-with-von&bg_color=212a3e&icon_color=e2dbd7&title_color=3d7cb6&theme=transparent&text_color=f1f6f8&locale=pt-BR) -->
+>>>>>>> 7067415002a88c315a30991768189781c87a30f6
