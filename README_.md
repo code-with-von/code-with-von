@@ -47,15 +47,26 @@ Teste
 ## Estatísticas:
 </summary>
 
-### Atividade Sequencial:
+### Minha atividade:
 
-<div align=center>
-
+<div class='container'>
+<div class='col'>
+  
 ![streak-stats](https://streak-stats.demolab.com?user=code-with-von&theme=ambient-gradient&hide_border=true&locale=pt_BR&mode=weekly&background=90%2C9ba4b5%2Cf1f6f9&stroke=212a3e&ring=212a3e&fire=212a3e&currStreakNum=212a3e&sideNums=3d7cb6&currStreakLabel=212a3e&sideLabels=3d7cb6&dates=212a3e&excludeDaysLabel=212a3e)
+</div>
+  
+<div class='col'>
+
+![isocalendar](/metrics/isocalendar.svg)
+</div>
+
+</div>
+
+
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=code-with-von&show_icons=true&bg_color=90,9ba4b5,f1f6f9&icon_color=212a3e&text_color=3d7cb6&locale=pt-BR&hide_title=true&hide_border=true&theme=ambient-gradient&ring_color=212a3e)
-</div>
+
 
 
 <div align=center>

@@ -15,7 +15,7 @@ jobs:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: isocalendar.svg
+          filename: /metrics/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -24,7 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: code-with-von
-          filename: stars.svg
+          filename: /metrics/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stars: yes
@@ -34,11 +34,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: code-with-von
-          filename: contributors.categories.svg
+          filename: /metrics/contributors.categories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: metrics
           plugin_contributors: yes
           plugin_contributors_sections: categories
           plugin_contributors_categories: |
@@ -52,7 +51,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: code-with-von
-          filename: stargazers.svg
+          filename: /metrics/stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -60,7 +59,7 @@ jobs:
       - name: Compact display in base plugin
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.lines.svg
+          filename: /metrics/plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_lines: yes
@@ -70,7 +69,7 @@ jobs:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: achievements.compact.svg
+          filename: /metrics/achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -80,7 +79,7 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: leetcode.svg
+          filename: /metrics/leetcode.svg
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
