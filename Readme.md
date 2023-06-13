@@ -27,6 +27,22 @@ E esses são dados gerais sobre esta conta no Github:
 
 </div>
 
+- Tenho conhecimento nas seguintes linguagens de programação:
+<div align=center style='line-height: 2.5rem'>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
+</div>
+
+- Estou aprendendo a trabalhar com React
+- Estou preparando cursos para publicar na Udemy
 - Hobbies (em ordem de preferência):
   - Games
   - Programar
@@ -47,6 +63,7 @@ E esses são dados gerais sobre esta conta no Github:
   - Desenvolvendo pequenos projetos gráficos para empresas locais (arte para material impresso)
   - Fazendo livestreams na plataforma Twitch
   - Produzindo conteúdo para a plataforma YouTube
+  - Iniciando minha carreira de instrutor na Udemy
 
 Para saber um pouco mais sobre o profissional von Schappler, visite:
 
