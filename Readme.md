@@ -86,7 +86,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 ---
 
-<details open>
+<details>
 <summary><span class='h2'>Estatísticas Git:</span></summary>
 
 <h4>1. Atividade geral:</h4>
