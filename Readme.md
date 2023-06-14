@@ -9,7 +9,7 @@ E esses são dados gerais sobre esta conta no Github:
 ![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]
 ![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
 
-<details>
+<details open>
 <summary><span class="h2">Pessoal</span></summary>
 
 - Sou uma pessoa diagnosticada dentro do [Espectro autista](https://pt.wikipedia.org/wiki/Transtornos_do_espectro_autista).
@@ -183,9 +183,13 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 </div>
 </div>
+<span class='small'>
+
+Estatísticas geradas com auxilio do plugin [@lowlighter/metrics](https://github.com/lowlighter/metrics) [^3]
+</span>
 </details>
 </div>
 
 [^1]: Estatísticas de visitas, em relação ao repositório principal, [code-with-von.github.io](https://github.com/code-with-von/code-with-von.github.io)
 [^2]: A contagem de repositórios não abrange os repositórios privados.
-[^3]: Estatísticas atualizadas a cada 4 horas.
+[^3]: Alguns dos dados estatísticos são atualizados a cada 4 horas
