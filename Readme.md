@@ -69,7 +69,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 <div align=center>
 
-[<span class='bi bi-linkedin text-white'> LinkedIn</span>](https://www.linkedin.com/in/manoelviturino) | [<span class='bi bi-twitch text-white'> Twitch</span>](https://twitch.tv/von_schappler)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelviturino) | [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/von_schappler)
 
 </div>
 
