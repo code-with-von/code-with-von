@@ -73,10 +73,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 </div>
 
-<h4>
-
-Estatísticas de minha página pessoal:[^3]
-</h4>
+<h4>Estatísticas de minha página pessoal</h4>
 
 <div align=center>
 <div class='col'>
