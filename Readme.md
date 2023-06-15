@@ -1,5 +1,5 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-<link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css' rel='stylesheet'>
+<link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css' rel='stylesheet' crossorigin="anonymous">
 
 <div class="container">
 <h1>🙋‍♂️ Olá! Eu sou von Schappler!</h1>
@@ -21,7 +21,7 @@ E esses são dados gerais sobre esta conta no Github:
 
   <span class='small'>Se não estiver mostrando nenhuma música, é por que não estou programando:</span>
 
-<div class='container justify-content-center'>
+<div class='container justify-content-center'> 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&redirect=true)
 
