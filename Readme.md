@@ -7,11 +7,10 @@ E esses são dados gerais sobre esta conta no Github:
 
 <h6>
 
-![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1] |
-![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
+![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
 </h6>
 
-### Patrocínios
+### Patrocínio e patrocinadores
 <div align=center>
 
 ![sponsors](metrics/sponsors.svg)
@@ -40,7 +39,7 @@ E esses são dados gerais sobre esta conta no Github:
 
 <h6>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 </h6>
 
 </div>
@@ -73,7 +72,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 <div align=center>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelviturino) | [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/von_schappler)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelviturino)[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/von_schappler)
 
 </div>
 
@@ -117,6 +116,11 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 <div class='col-12'>
 
 ![snippet](metrics/snippet.svg)
+
+</div>
+<div class='col-12'>
+
+![languages](metrics/languages.svg)
 
 </div>
 <div class='col-12'>
