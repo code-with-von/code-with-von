@@ -142,3 +142,13 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: code-with-von
+      
+      - name: Sponsors
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/sponsors.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
