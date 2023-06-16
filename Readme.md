@@ -1,13 +1,21 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-<link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css' rel='stylesheet' crossorigin="anonymous">
 
 <div class="container">
 <h1>🙋‍♂️ Olá! Eu sou von Schappler!</h1>
 
 E esses são dados gerais sobre esta conta no Github:
 
-![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]
+<h6>
+
+![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1] |
 ![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
+</h6>
+
+### Patrocínios
+<div align=center>
+
+![sponsors](metrics/sponsors.svg)
+</div>
 
 <details open>
 <summary><span class="h2">Pessoal</span></summary>
@@ -30,14 +38,10 @@ E esses são dados gerais sobre esta conta no Github:
 - Tenho conhecimento nas seguintes linguagens de programação:
 <div align=center style='line-height: 2.5rem'>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+<h6>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+</h6>
 
 </div>
 
