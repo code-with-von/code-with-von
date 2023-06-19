@@ -104,7 +104,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 <div class='col-12'>
 
-![stats](https://github-readme-stats.vercel.app/api?username=code-with-von&show_icons=true&bg_color=90,9ba4b5,f1f6f9&icon_color=212a3e&text_color=3d7cb6&locale=pt-BR&hide_title=true&hide_border=true&theme=ambient-gradient&ring_color=212a3e)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-von&show_icons=true&bg_color=90,9ba4b5,f1f6f9&icon_color=212a3e&text_color=3d7cb6&locale=pt-BR&hide_title=true&hide_border=true&theme=ambient-gradient&ring_color=212a3e)
 
 </div>
 
