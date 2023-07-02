@@ -8,12 +8,15 @@ E esses são dados gerais sobre esta conta no Github:
 <h6>
 
 ![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
+
 </h6>
 
 ### Patrocínio e patrocinadores
+
 <div align=center>
 
 ![sponsors](metrics/sponsors.svg)
+
 </div>
 
 <details open>
@@ -28,7 +31,7 @@ E esses são dados gerais sobre esta conta no Github:
 
   <span class='small'>Se não estiver mostrando nenhuma música, é por que não estou programando:</span>
 
-<div class='container justify-content-center'> 
+<div class='container justify-content-center'>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.vercel.app/api/view?uid=12150179423&redirect=true)
 
@@ -40,6 +43,7 @@ E esses são dados gerais sobre esta conta no Github:
 <h6>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+
 </h6>
 
 </div>
@@ -195,6 +199,7 @@ Para saber um pouco mais sobre o profissional von Schappler, visite:
 
 Estatísticas geradas com auxilio do plugin [@lowlighter/metrics](https://github.com/lowlighter/metrics) [^3]
 </span>
+
 </details>
 </div>
 
