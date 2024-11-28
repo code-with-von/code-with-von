@@ -1,4 +1,4 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
 
 <div class="container">
 <h1>🙋‍♂️ Olá! Eu sou von Schappler!</h1>
@@ -7,7 +7,9 @@ E esses são dados gerais sobre esta conta no Github:
 
 <h6>
 
-![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
+![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]
+
+![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
 
 </h6>
 
@@ -31,31 +33,39 @@ E esses são dados gerais sobre esta conta no Github:
 
   <span class='small'>Se não estiver mostrando nenhuma música, é por que não estou programando:</span>
 
-<div class='container justify-content-center'>
+<div style='display: flex; justify-content: center'>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&redirect=true)
 
 </div>
 
-- Tenho conhecimento nas seguintes linguagens de programação:
-<div align=center style='line-height: 2.5rem'>
+- Tenho conhecimento nas seguintes linguagens/libs/frameworks de programação:
 
-<h6>
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![FomanticUi](https://img.shields.io/badge/Fomantic%20Ui-16b2ab?&logo=semanticui&logoColor=fff&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=fff&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB%&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&labelColor=52B0E7&logoColor=FFF&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=fff&style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Fomantic](https://img.shields.io/badge/Fomantic%20UI-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-</h6>
-
-</div>
-
-- Estou aprendendo a trabalhar com React
 - Estou preparando cursos para publicar na Udemy
 - Hobbies (em ordem de preferência):
   - Games
   - Programar
   - Aprender novas coisas
   - Filmes
-  </details>
+
+</details>
 
 ---
 
@@ -74,11 +84,8 @@ E esses são dados gerais sobre esta conta no Github:
 
 Para saber um pouco mais sobre o profissional von Schappler, visite:
 
-<div align=center>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelviturino)[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/von_schappler)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manoelviturino)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/von_schappler)
 
 <h4>Estatísticas de minha página pessoal</h4>
 
