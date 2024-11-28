@@ -5,13 +5,8 @@
 
 E esses são dados gerais sobre esta conta no Github:
 
-<h6>
-
 ![visitors](https://badges.pufler.dev/visits/code-with-von/code-with-von.github.io?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Visitantes)[^1]
-
 ![repos](https://badges.pufler.dev/repos/code-with-von?style=for-the-badge&color=f1f6f9&labelColor=212a3e&label=Repositorios)[^2]
-
-</h6>
 
 ### Patrocínio e patrocinadores
 
@@ -33,11 +28,7 @@ E esses são dados gerais sobre esta conta no Github:
 
   <span class='small'>Se não estiver mostrando nenhuma música, é por que não estou programando:</span>
 
-<div style='display: flex; justify-content: center'>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&cover_image=true&theme=novatorem&show_offline=true&background_color=212a3e&interchange=true&bar_color_cover=false&bar_color=f1f6f9)](https://spotify-github-profile.kittinanx.com/api/view?uid=12150179423&redirect=true)
-
-</div>
 
 - Tenho conhecimento nas seguintes linguagens/libs/frameworks de programação:
 
