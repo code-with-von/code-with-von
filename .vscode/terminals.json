@@ -1,0 +1,13 @@
+{
+  "autorun": true,
+  "terminals": [
+    {
+      "name": "git-commands",
+      "description": "This is a terminal run git commands",
+      "icon": "github",
+      "color": "terminal.ansiYellow",
+      "focus": false,
+      "command": "git pull"
+    }
+  ]
+}
