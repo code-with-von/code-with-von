@@ -2,7 +2,7 @@
   "autorun": true,
   "terminals": [
     {
-      "name": "git-commands",
+      "name": "profile-git-commands",
       "description": "This is a terminal run git commands",
       "icon": "github",
       "color": "terminal.ansiYellow",
